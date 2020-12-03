@@ -9,12 +9,6 @@ The dhcp client & server are published under the [GNU GPL v3.0 License](https://
 # PURPOSE
 The dhcp client & server are used for the BionicSoftHand. If no dhcp server is inside the network, this can be started.
 
-# DOCUMENTATION
-// TODO
-
-# EXAMPLE
-// TODO
-
 # CREDITS:
 Withing this project multiple libraries have been used.     
 [SIMPLE DHCP CLIENT](https://github.com/playma/simple_dhcp) is distributed under the MIT License   
